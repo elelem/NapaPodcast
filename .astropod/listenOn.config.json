@@ -1,12 +1,12 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
-  "applePodcast": "",
-  "easyPodcast": "",
   "amazonMusic": "",
-  "fountain": "",
-  "ivoox": "",
-  "pocketcasts": "",
+  "easyPodcast": "https://easypodcasts.live/917-napa-podcast",
   "deezer": "",
-  "acastPodcasts": ""
+  "applePodcast": "",
+  "ivoox": "",
+  "googlePodcast": "",
+  "acastPodcasts": "",
+  "fountain": "",
+  "spotify": "",
+  "pocketcasts": ""
 }
