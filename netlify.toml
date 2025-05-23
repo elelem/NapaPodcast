@@ -1,3 +1,3 @@
 [build]
   publish = "dist/"
-  command = "pnpm install --platform=linux --arch=x64 sharp && pnpm run build"
+  command = "npm install --platform=linux --arch=x64 sharp && pnpm install && pnpm run build"
